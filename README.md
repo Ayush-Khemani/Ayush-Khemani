@@ -21,7 +21,6 @@ I'm a **Computer Science graduate from Eötvös Loránd University (ELTE), Budap
 
 I enjoy working across the full journey of a product: designing data models, building APIs, connecting intuitive interfaces, and making complicated workflows feel simple.
 
-At **InspectOS / Remixwise**, I worked on **Reserva**, a real estate platform for Portugal. I developed role-based workflows using **TypeScript, React, Node.js, Supabase, and PostgreSQL**.
 
 <div align="center">
 
