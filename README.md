@@ -59,14 +59,6 @@ I enjoy working across the full journey of a product: designing data models, bui
 
 <div align="right"><a href="https://github.com/Ayush-Khemani?tab=repositories"><b>All repositories →</b></a></div>
 
-### `04 / experience in practice`
-
-**Software Engineering Intern** · **InspectOS / Remixwise** · Mar 2026 to Jul 2026
-
-Contributed to **Reserva**, a platform designed to connect property stakeholders in Portugal. I developed authentication and role permissions, property submission and approval processes, buyer mandates, listing state transitions, and matching workflows.
-
-`TypeScript` `React` `Node.js` `Express` `Supabase` `PostgreSQL`
-
 ### `05 / beyond the code`
 
 - **Co-founder**, ELTE Data Science Club. Bringing people together around technical curiosity and shared learning.
